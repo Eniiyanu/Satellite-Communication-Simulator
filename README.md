@@ -61,7 +61,7 @@ Contributions to improve the simulator are welcome. Please feel free to submit a
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Your Name - your.email@example.com
+Oluwaferanmi Oladepo - oladepo.oluwaferanmi@studentambassadors.com
 
 Project Link: [https://github.com/Eniiyanu/Satellite-Communication-Simulator](https://github.com/Eniiyanu/Satellite-Communication-Simulator)
 
